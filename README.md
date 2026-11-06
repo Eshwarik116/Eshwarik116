@@ -17,12 +17,12 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Pursuing B.E. in Electronics & Telecommunication Engineering at **Pune Institute of Computer Technology (PICT)**
+- 🎓 Pursuing B.Tech in Electronics & Telecommunication Engineering at **Pune Institute of Computer Technology (PICT)**
 - 🚀 I build REST APIs, JWT-based authentication systems, and database-driven applications using the MERN stack
 - 🔬 Co-authored a research preprint on real-time pothole detection using sensor fusion and dual ESP32, published on [Zenodo](https://doi.org/10.5281/zenodo.20760578)
-- 🔐 Explored Android app security analysis with Docker and MobSF
-- 🧩 Consistent problem solver on LeetCode and Codeforces, with DSA in Java
 - 🌱 Currently learning and exploring: **AI, Machine Learning, and RAG (Retrieval-Augmented Generation)**
+- 🧩 Consistent problem solver on LeetCode and Codeforces, with DSA in Java
+- 🔐 Explored Android app security analysis with Docker and MobSF
 - 📍 Based in Pune, Maharashtra, India
 - 🎯 Open to internships and collaborations in backend and full-stack development
 
