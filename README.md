@@ -16,24 +16,14 @@
 
 ## 👩‍💻 About Me
 
-```js
-const eshwari = {
-  role: "Backend & Full-Stack Developer",
-  college: "Pune Institute of Computer Technology (PICT)",
-  branch: "Electronics & Telecommunication Engineering",
-  location: "Pune, India",
-  building: ["REST APIs", "JWT Auth Systems", "MERN Apps"],
-  currentlyLearning: ["AI", "Machine Learning", "RAG"],
-  leetcode: "200+ problems solved",
-  funFact: "I design PCBs and write backend APIs",
-  openTo: "Internships & collaborations"
-};
-```
-
+- 🎓 Pursuing B.E. in Electronics & Telecommunication Engineering at **Pune Institute of Computer Technology (PICT)**
+- 🚀 I build REST APIs, JWT-based authentication systems, and database-driven applications using the MERN stack
 - 🔬 Co-authored a research preprint on real-time pothole detection using sensor fusion and dual ESP32, published on [Zenodo](https://doi.org/10.5281/zenodo.20760578)
 - 🔐 Explored Android app security analysis with Docker and MobSF
+- 🧩 - 🧩 Consistent problem solver on LeetCode and Codeforces, with DSA in Java
+- 🌱 Currently learning and exploring: **AI, Machine Learning, and RAG (Retrieval-Augmented Generation)**
+- 📍 Based in Pune, Maharashtra, India
 - 🎯 Open to internships and collaborations in backend and full-stack development
-
 ## 🛠️ Tech Stack
 
 <div align="center">
