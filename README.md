@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Eshwari%20Kognole&fontSize=50&fontAlignY=35&desc=Backend%20and%20Full-Stack%20Developer&descAlignY=55&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:14532D,100:5FA67A&height=200&section=header&text=Eshwari%20Kognole&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20and%20Full-Stack%20Developer&descAlignY=55&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=6E56CF&center=true&vCenter=true&width=800&lines=Electronics+%26+Telecommunication+Engineering+Student+at+PICT%2C+Pune)](https://github.com/Eshwarik116)
 
@@ -65,6 +65,13 @@ const eshwari = {
 
 </div>
 
+## 🚀 Featured Projects
+
+| Project | What it does | Tech |
+|---|---|---|
+| [Airbnb Clone (Full-Stack)](https://github.com/Eshwarik116/Airbnb-clone-fullstack) | Vacation rental web app where users explore listings, manage properties, upload images, and book stays | MongoDB, Express.js, Node.js |
+| [Intelligent Pothole Detection (IPDS)](https://github.com/Eshwarik116/PotHoleDetection) | Real-time pothole detection using YOLOv8 vision, multi-sensor fusion, and a dual ESP32 architecture | YOLOv8, ESP32, Python |
+
 ## 🏆 Highlights
 
 - 📄 Co-authored research preprint: [Real-Time Pothole Detection Based on Vision-Dominant Sensor Fusion and Dual ESP32 Architecture](https://doi.org/10.5281/zenodo.20760578)
@@ -96,6 +103,6 @@ const eshwari = {
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:5FA67A,100:14532D&height=120&section=footer)
 
 </div>
