@@ -40,7 +40,8 @@
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis&theme=dark" alt="Backend">
 
 **Tools**
 
@@ -74,21 +75,7 @@
 - 📜 Oracle Cloud Infrastructure 2025 AI Foundations Associate
 - 📜 Machine Learning Specialization, Stanford University (Andrew Ng), DeepLearning.AI
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Eshwarik116/Eshwarik116/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="700" alt="Profile details">
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=Eshwarik116&theme=tokyonight&hide_border=true" width="700" alt="Streak">
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Eshwarik116/Eshwarik116/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="350" alt="Top languages">
-
-</div>
 
 <div align="center">
 
