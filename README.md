@@ -1,10 +1,18 @@
-<div align="center">
+<h1 align="center">Hi, I'm Eshwari Kognole 👋</h1>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Eshwari%20Kognole&fontSize=50&fontAlignY=38&desc=Backend%20%26%20Full-Stack%20Developer&descAlignY=58)
+<h3 align="center">Backend & Full-Stack Developer | Engineering Student @ PICT, Pune</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E56CF&center=true&vCenter=true&width=500&lines=Building+REST+APIs+with+Node.js;Exploring+AI%2C+ML+%26+RAG;Solving+DSA+in+Java)](https://git.io/typing-svg)
+<p align="center">
+  Building REST APIs with Node.js · Exploring AI, ML & RAG · Solving DSA in Java
+</p>
 
-</div>
+<p align="center">
+  <a href="YOUR-LINKEDIN-URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="YOUR-LEETCODE-URL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="mailto:eshwarikognole.pict@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
 
 ## 👩‍💻 About Me
 
@@ -65,29 +73,11 @@
 - 📜 Oracle Cloud Infrastructure 2025 AI Foundations Associate
 - 📜 Machine Learning Specialization, Stanford University (Andrew Ng), DeepLearning.AI
 
-<!-- FEATURED PROJECTS: remove this comment line and the closing line below once your repos are public, and replace YOUR-REPO-NAME
-## 🚀 Featured Projects
+---
 
-[![IPDS](https://github-readme-stats.vercel.app/api/pin/?username=Eshwarik116&repo=YOUR-REPO-NAME&theme=tokyonight)](https://github.com/Eshwarik116/YOUR-REPO-NAME)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Eshwarik116&repo=YOUR-REPO-NAME-2&theme=tokyonight)](https://github.com/Eshwarik116/YOUR-REPO-NAME-2)
-END OF FEATURED PROJECTS -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Eshwarik116&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eshwarik116&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com/?user=Eshwarik116&theme=tokyonight&hide_border=true)
-
-</div>
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR-LEETCODE-URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eshwarikognole.pict@gmail.com)
+<p align="center">
+  Thanks for visiting! ⭐ Feel free to explore my repositories.
+</p>
 
 <div align="center">
 
