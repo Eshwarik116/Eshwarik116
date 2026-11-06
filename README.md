@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Eshwari%20Kognole&fontSize=50&fontAlignY=35&desc=Backend%20and%20Full-Stack%20Developer&descAlignY=55&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6E56CF&center=true&vCenter=true&width=600&lines=Building+REST+APIs+with+Node.js;Exploring+AI+ML+and+RAG;Solving+DSA+in+Java;Open+to+internships+and+collaborations)](https://github.com/Eshwarik116)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=6E56CF&center=true&vCenter=true&width=800&lines=Electronics+%26+Telecommunication+Engineering+Student+at+PICT%2C+Pune)](https://github.com/Eshwarik116)
 
 <br>
 
@@ -20,19 +20,19 @@
 const eshwari = {
   role: "Backend & Full-Stack Developer",
   college: "Pune Institute of Computer Technology (PICT)",
-  degree: "B.E. Electronics & Telecommunication",
-  location: "Pune, India 📍",
+  branch: "Electronics & Telecommunication Engineering",
+  location: "Pune, India",
   building: ["REST APIs", "JWT Auth Systems", "MERN Apps"],
-  published: "Research preprint on Zenodo 📄",
-  leetcode: "200+ problems solved 🧩",
   currentlyLearning: ["AI", "Machine Learning", "RAG"],
-  funFact: "I design PCBs and write backend APIs 🔌",
-  lookingFor: "Internships & collaborations 🚀"
+  leetcode: "200+ problems solved",
+  funFact: "I design PCBs and write backend APIs",
+  openTo: "Internships & collaborations"
 };
 ```
 
 - 🔬 Co-authored a research preprint on real-time pothole detection using sensor fusion and dual ESP32, published on [Zenodo](https://doi.org/10.5281/zenodo.20760578)
 - 🔐 Explored Android app security analysis with Docker and MobSF
+- 🎯 Open to internships and collaborations in backend and full-stack development
 
 ## 🛠️ Tech Stack
 
@@ -76,8 +76,8 @@ const eshwari = {
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Eshwarik116&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eshwarik116&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://raw.githubusercontent.com/Eshwarik116/Eshwarik116/main/profile-summary-card-output/monokai/0-profile-details.svg" width="49%" alt="Profile details">
+<img src="https://raw.githubusercontent.com/Eshwarik116/Eshwarik116/main/profile-summary-card-output/monokai/2-most-commit-language.svg" width="49%" alt="Top languages">
 
 ![Streak](https://streak-stats.demolab.com/?user=Eshwarik116&theme=tokyonight&hide_border=true)
 
