@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1A694F,100:62A47F&height=200&section=header&text=Eshwari%20Kognole&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Development&descAlignY=55&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1A694F,100:62A47F&height=200&section=header&text=Eshwari%20Kognole&fontSize=50&fontColor=ffffff&fontAlignY=50&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=6E56CF&center=true&vCenter=true&width=800&lines=Electronics+%26+Telecommunication+Engineering+Student+at+PICT%2C+Pune)](https://github.com/Eshwarik116)
 
@@ -18,7 +18,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 Pursuing B.Tech in Electronics & Telecommunication Engineering at **Pune Institute of Computer Technology (PICT)**
-- 🚀 I build REST APIs, JWT-based authentication systems, and database-driven applications using the MERN stack
+- 🚀 Building full-stack web applications and turning ideas into working, useful products
 - 🔬 Co-authored a research preprint on real-time pothole detection using sensor fusion and dual ESP32, published on [Zenodo](https://doi.org/10.5281/zenodo.20760578)
 - 🌱 Currently learning and exploring: **AI, Machine Learning, and RAG (Retrieval-Augmented Generation)**
 - 🧩 Consistent problem solver on LeetCode and Codeforces, with DSA in Java
