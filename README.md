@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1A694F,100:62A47F&height=200&section=header&text=Eshwari%20Kognole&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20and%20Full-Stack%20Developer&descAlignY=55&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1A694F,100:62A47F&height=200&section=header&text=Eshwari%20Kognole&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Development&descAlignY=55&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=6E56CF&center=true&vCenter=true&width=800&lines=Electronics+%26+Telecommunication+Engineering+Student+at+PICT%2C+Pune)](https://github.com/Eshwarik116)
 
