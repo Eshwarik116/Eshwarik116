@@ -1,15 +1,19 @@
-# Hi, I'm Eshwari Kognole 👋
+<div align="center">
 
-### Backend & Full-Stack Developer | Engineering Student @ PICT, Pune
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Eshwari%20Kognole&fontSize=50&fontAlignY=38&desc=Backend%20%26%20Full-Stack%20Developer&descAlignY=58)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E56CF&center=true&vCenter=true&width=500&lines=Building+REST+APIs+with+Node.js;Exploring+AI%2C+ML+%26+RAG;Solving+DSA+in+Java)](https://git.io/typing-svg)
+
+</div>
 
 ## 👩‍💻 About Me
 
 - 🎓 Pursuing B.E. in Electronics & Telecommunication Engineering at **Pune Institute of Computer Technology (PICT)**
 - 🚀 I build REST APIs, JWT-based authentication systems, and database-driven applications using the MERN stack
-- 🔬 Co-authored a research preprint on real-time pothole detection using sensor fusion and dual ESP32 (published on [Zenodo](https://doi.org/10.5281/zenodo.20760578))
-- 🔐 Recently explored Android app security analysis with Docker and MobSF
+- 🔬 Co-authored a research preprint on real-time pothole detection using sensor fusion and dual ESP32, published on [Zenodo](https://doi.org/10.5281/zenodo.20760578)
+- 🔐 Explored Android app security analysis with Docker and MobSF
 - 🧩 Solved 200+ problems on LeetCode, with DSA in Java
-- 🌱 Currently learning: [add what you're learning, e.g. system design, Spring Boot]
+- 🌱 Currently learning and exploring: **AI, Machine Learning, and RAG (Retrieval-Augmented Generation)**
 - 📍 Based in Pune, Maharashtra, India
 - 🎯 Open to internships and collaborations in backend and full-stack development
 
@@ -46,10 +50,47 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+**Currently Exploring**
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
+
 **Core CS:** Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks
+
+## 🏆 Highlights
+
+- 📄 Co-authored research preprint: [Real-Time Pothole Detection Based on Vision-Dominant Sensor Fusion and Dual ESP32 Architecture](https://doi.org/10.5281/zenodo.20760578)
+- 🧩 200+ LeetCode problems solved, 100 Days Badge earned
+- 📜 Oracle Cloud Infrastructure 2025 AI Foundations Associate
+- 📜 Machine Learning Specialization, Stanford University (Andrew Ng), DeepLearning.AI
+
+<!-- FEATURED PROJECTS: remove this comment line and the closing line below once your repos are public, and replace YOUR-REPO-NAME
+## 🚀 Featured Projects
+
+[![IPDS](https://github-readme-stats.vercel.app/api/pin/?username=Eshwarik116&repo=YOUR-REPO-NAME&theme=tokyonight)](https://github.com/Eshwarik116/YOUR-REPO-NAME)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Eshwarik116&repo=YOUR-REPO-NAME-2&theme=tokyonight)](https://github.com/Eshwarik116/YOUR-REPO-NAME-2)
+END OF FEATURED PROJECTS -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Eshwarik116&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eshwarik116&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com/?user=Eshwarik116&theme=tokyonight&hide_border=true)
+
+</div>
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshwarikognole/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR-LEETCODE-URL)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eshwarikognole.pict@gmail.com)
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+</div>
